@@ -1,0 +1,6 @@
+export const loginApi = 'login'
+export const signUpApi = 'signup'
+export const authUserRolesApi = '/auth/user-roles'
+export const componentsByRoleApi = '/auth/components-by-role'
+export const componentsOfSuperAdminApi = '/menu/components-from-menu'
+export const sidebarMenusApi = '/menu/sidebar-menus'
